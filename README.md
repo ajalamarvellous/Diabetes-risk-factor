@@ -3,7 +3,7 @@ This project seeks to use Machine Learning to predict whether as patient has an 
 
 The dataset was obtained from [Kaggle](https://www.kaggle.com/ishandutta/early-stage-diabetes-risk-prediction-dataset)
 
-##The dataset has 17 features with following attributes
+## The dataset has 17 features with following attributes
 
 Age 1.20-65
 Sex 1. Male, 2.Female
@@ -31,4 +31,4 @@ Various machine learning algorithms were employed including Logistic regression,
 
 The deployed model is accessible at [here](http://bit.ly/3bQF8I1)
 
-##Please, note that this model cannot be used for medical purposes, it's only meant as an illustration of proof of concept.
+## Please, note that this model cannot be used for medical purposes, it's only meant as an illustration of proof of concept.
