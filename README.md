@@ -1,7 +1,7 @@
 # Diabetes-risk-factor
 This project seeks to use Machine Learning to predict whether as patient has an undiagnosed diabetes
 
-The dataset was obtained from [Kaggle] (https://www.kaggle.com/ishandutta/early-stage-diabetes-risk-prediction-dataset)
+The dataset was obtained from [Kaggle](https://www.kaggle.com/ishandutta/early-stage-diabetes-risk-prediction-dataset)
 
 ##The dataset has 17 features with following attributes
 
@@ -29,6 +29,6 @@ The problem is a simple classification problem with the last feature "class" use
 
 Various machine learning algorithms were employed including Logistic regression, K Nearest Neighbors, Decision tree with the best being with highest accuracy being Logistics regression with a margin "C" attribute of 1
 
-The deployed model is accessible at [here] (http://bit.ly/3bQF8I1)
+The deployed model is accessible at [here](http://bit.ly/3bQF8I1)
 
-Please, note that this model cannot be used for medical purposes, it's only meant as an illustration of proof of concept
+##Please, note that this model cannot be used for medical purposes, it's only meant as an illustration of proof of concept.
