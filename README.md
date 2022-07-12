@@ -137,8 +137,7 @@ The dataset is publicly available. Please refer to the [Kaggle](link)
 
 <!-- ROADMAP -->
 ## Roadmap
-    
-<p align="justify"> 
+     
 For this project, the road map was to 
 * Perform minimal feature engineering to determine which features to include in the model pipeline
 * Try out different machine learning models Decision trees, Support vector machine Weiss et. al.
@@ -241,6 +240,9 @@ You can download them from the terminal from requirements.txt using
 ## Usage
 
 To try out the deployed page, you can try it out [here](https://example.com)
+<p align="centre>
+    <img src="gif-of-usage-page.png>
+ </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -278,7 +280,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 - Ajala, Marvellous - [@madeofajala](https://twitter.com/madeofajala) - ajalaoluwamayowa00@gmail.com
 
-Project Link: [https://github.com/ajalamarvellous/repo_name](https://github.com/ajalamarvellous/Diabetes-risk-factor)
+Project Link: [https://github.com/ajalamarvellous/Diabetes-risk-factor](https://github.com/ajalamarvellous/Diabetes-risk-factor)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
